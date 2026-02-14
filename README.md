@@ -19,8 +19,14 @@ I am a results-driven Senior Software Engineer with over 7 years of experience b
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shaikhmustufa7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mustufachaudhari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mustufa-chaudhari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaikhmustufa07@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mustufachaudhari&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mustufachaudhari&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustufachaudhari&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-📫 **How to reach me:** [shaikhmustufa07@gmail.com](mailto:shaikhmustufa07@gmail.com)
-🔗 **LinkedIn:** [linkedin.com/in/mustufa-chaudhari](https://linkedin.com/in/mustufa-chaudhari)
+---
+[![](https://visitcount.itsvg.in/api?id=mustufachaudhari&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
